@@ -1,0 +1,4 @@
+{"h3Q2yQrOKj1XRyxpsOElmw==":"83aa73a1-474c-406e-8d4c-e07275f1100f-122x17.jpeg","SlIWjJxN20VsGgI3lT8d9Q==":"4e633fbd-f054-4fb6-9df6-6a8f4145772a-588x331.jpg","2mDdG7JlmE3w3yp2ZGW5tw==":"logoo-216x122.png","PPTSjSNZ4MBvI+LHKIQ8UA==":"4154823d-ecfc-4ff1-a16f-03a87a2650ad-556x417.jpg","Fv7WvI2QjbpM+UwnEqKPUA==":"317c6e07-5064-4af3-b132-17917c982512-556x416.jpg","Iw2f6lVcc6o0rgCSxW6eyA==":"download-283x178.jpg","snxmpWCewz9LbkhekGpyVg==":"logoo-192x108.png","qLuFRI78P01ierEwo78Sug==":"15941317_163913977427715_5909650731602380641_n-315x366.jpg","FY8Sf+sDBxig6X01zpfwsA==":"7eb40ff6-ceb3-4c76-a5c0-6ad7dcc33029-420x420.jpg","WxE0YZ9q5ObSzv1V3yKzmA==":"1eaa17ed-94ae-4878-8965-2d8c03ac9090-375x375.jpg","UAc7kepzJPkrSn4uqTRvmw==":"background4.jpg"}
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+npm login --registry=https://npm
+npm publish.pkg.github.com/
